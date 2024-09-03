@@ -12,24 +12,26 @@
 <body>
 
     <h1>Felicia Karlsson</h1>
+    <h3>Bild på min katt</h3>
+    <img src = "katt.jpg" width="50%" height="50%">
+
+
+
     <h2>Saker jag är bra på</h2>
 
-
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-
-
-
-
+        <li>Friidrott</li>
+        <li>Rida</li>
+        <li>Baka</li>
+        <li>spela spel</li>
 
     </ul>
 
+    <hr>
 
+        <a href="https://github.com/hppy-squid">GitHub profil</a>
 
+        <a href="index.html">Tillbaka</a>
 
 
 
