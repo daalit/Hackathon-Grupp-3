@@ -13,7 +13,7 @@
 
     <h1>Felicia Karlsson</h1>
     <h3>Bild på min katt</h3>
-    <img src = "katt.jpg" width="25%" height="25%">
+    <img src = "katt.jpg" width="50%" height="50%">
 
 
 
@@ -23,7 +23,7 @@
         <li>Friidrott</li>
         <li>Rida</li>
         <li>Baka</li>
-        <li>Äta</li>
+        <li>spela spel</li>
 
     </ul>
 
