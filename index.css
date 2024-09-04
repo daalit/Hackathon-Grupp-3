@@ -1,0 +1,17 @@
+li{
+   color: rgb(255, 0, 0);
+   background-color: rgb(255, 0, 255);
+}
+li:hover{
+    transform: scale(160%);
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+    position: absolute;
+
+}
+
+
+body{
+    background-color: rgb(238, 255, 0);
+}
+
